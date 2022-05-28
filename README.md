@@ -4,7 +4,7 @@
 
 - My interest includes Machine Learning and Computational Science 💻.
 
--My skills include Python, HTML, and Java ☕
+- My skills include Python, HTML, and Java ☕
 
 
 
